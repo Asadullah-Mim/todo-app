@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local databases and instance files
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Editor settings
+.vscode/
