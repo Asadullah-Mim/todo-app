@@ -1,5 +1,5 @@
 # To-Do App 
-A simple To-Do application built with Flask adn Python. This project is my part of practice which helping me to learning web-development with Python, working with Flask, integration of database and templates of html.
+A simple To-Do application built with Flask and Python. This project is my part of practice which helping me to learning web-development with Python, working with Flask, integration of database and templates of html.
 
 ## Technologies Used:
 - Python--application logic
