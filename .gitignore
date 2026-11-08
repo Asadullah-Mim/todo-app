@@ -15,3 +15,7 @@ instance/
 
 # Editor settings
 .vscode/
+
+# Python cache files
+__pycache__/
+*.pyc
